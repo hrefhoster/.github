@@ -4,11 +4,11 @@
 
 [超链导航](https://href.host)的目的只为全球币圈用户提供免费高效的交易所网址导航，所有超链导航跳转链接均源自交易所官方渠道获取并通过官网验证，并且通过实施监控及验证确保所有链接的确准与安全性，有效防范钓鱼网站。
 
-- 欧易OKX备用域名网址导航：https://href.host/okx
-- 币安Binance备用域名网址导航：https://href.host/bn
-- 火币HTX备用域名网址导航：https://href.host/htx
-- 大门Gate备用域名网址导航：https://href.host/gate
-- Bitget备用域名网址导航：https://href.host/bitget
+- 欧易OKX备用域名网址导航：https://href.host/okx （[欧易APP](https://href.host/okxapp)）
+- 币安Binance备用域名网址导航：https://href.host/bn （[币安APP](https://href.host/bnapp)）
+- 火币HTX备用域名网址导航：https://href.host/htx （[火币APP](https://href.host/htxapp)）
+- 大门Gate备用域名网址导航：https://href.host/gate （[Gate APP](https://href.host/gateapp)）
+- Bitget备用域名网址导航：https://href.host/bitget （[Bitget APP](https://href.host/bitgetapp)）
 - Bybit备用域名网址导航：https://href.host/bybit
 - 背包Backpack网址导航：https://href.host/backpack
 - 海妖Kraken网址导航：https://href.host/kraken

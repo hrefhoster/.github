@@ -4,13 +4,13 @@
 
 [超链导航](https://href.host)的目的只为全球币圈用户提供免费高效的交易所网址导航，所有超链导航跳转链接均源自交易所官方渠道获取并通过官网验证，并且通过实施监控及验证确保所有链接的确准与安全性，有效防范钓鱼网站。
 
-- 欧易OKX备用域名网址导航：https://href.host/okx （[欧易APP](https://href.host/okxapp)）
-- 币安Binance备用域名网址导航：https://href.host/bn （[币安APP](https://href.host/bnapp)）
-- 火币HTX备用域名网址导航：https://href.host/htx （[火币APP](https://href.host/htxapp)）
-- 大门Gate备用域名网址导航：https://href.host/gate （[Gate APP](https://href.host/gateapp)）
-- Bitget备用域名网址导航：https://href.host/bitget （[Bitget APP](https://href.host/bitgetapp)）
-- Bybit备用域名网址导航：https://href.host/bybit
-- 背包Backpack网址导航：https://href.host/backpack
-- 海妖Kraken网址导航：https://href.host/kraken
+- **欧易OKX备用域名网址导航**：https://href.host/okx （[欧易APP](https://href.host/okxapp)）
+- **币安Binance备用域名网址导航**：https://href.host/bn （[币安APP](https://href.host/bnapp)）
+- **火币HTX备用域名网址导航**：https://href.host/htx （[火币APP](https://href.host/htxapp)）
+- **大门Gate备用域名网址导航**：https://href.host/gate （[Gate APP](https://href.host/gateapp)）
+- **Bitget备用域名网址导航**：https://href.host/bitget （[Bitget APP](https://href.host/bitgetapp)）
+- **Bybit备用域名网址导航**：https://href.host/bybit
+- **背包Backpack网址导航**：https://href.host/backpack
+- **海妖Kraken网址导航**：https://href.host/kraken
 
 超链导航拥有一套完整的检测系统，确保所提供的交易所备用域名网址导航均为官方最新可用链接，且通过官网渠道验证，能够自动及时的移除过期失效的备用域名，彻底避免因为更新不及时而导致访问到钓鱼链接；加上完善的备用域名采集系统，超链导航能够及时通过交易所官方API及官方渠道采集到最新发布的备用域名，以此来确保超链导航的有效安全运行。其实在这背后不仅有完善的系统，还包括人工定期和不定时的进行复查审核，这也是为什么说超链导航是目前市面上最安全可靠的币圈导航。
